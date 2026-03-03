@@ -9,7 +9,7 @@ Skills:
 
 Projects:
 
-I've had the privilege of working with team 9 this semester to analyze cervical cancer risks in developing countries. This project has sparked and continued my passion for AI in healthcare. This project combined all of my experiences in the MSBA from data-wrangling to presenting in front of Executive Partners at the conclusion of the course. Throughout the course, I was constantly reminded at the complexity of data and power in translating data into tangible real-world solutions that can help save lives. 
+I've had the privilege of working with team 9 this semester to analyze cervical cancer risks in developing countries. This project has sparked and continued my passion for AI in healthcare. This project combined all of my experiences from data-wrangling to presenting in front of Executive Partners at the conclusion of the course. Throughout the course, I was constantly reminded at the complexity of data and power in translating data into tangible real-world solutions that can help save lives. 
 
 Contact Information:
 

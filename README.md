@@ -1,4 +1,4 @@
-Hi, My name is Lucas Carmichael and I am currently a MSBA candidate at The College of William and Mary. I find joy in tackling complex problems utilizing data as a tool to power the world. Currently, in our AI course, we have been engaging with the material by analyzing global healtchare issues. As a student-athlete, I am fortunate to learn these critical thinking skills in conjunction with a rigorous schedule.
+Hi, My name is Lucas Carmichael and I am currently a MBA candidate at The College of William and Mary. I find joy in tackling complex problems utilizing data as a tool to power the world. Currently, in our AI course, we have been engaging with the material by analyzing global healtchare issues. As a student-athlete, I am fortunate to learn these critical thinking skills in conjunction with a rigorous schedule.
 
 Skills:
 

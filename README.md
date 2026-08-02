@@ -1,21 +1,24 @@
-Hi, My name is Lucas Carmichael and I am currently a MBA candidate at The College of William and Mary. I find joy in tackling complex problems utilizing data as a tool to power the world. Currently, in our AI course, we have been engaging with the material by analyzing global healtchare issues. As a student-athlete, I am fortunate to learn these critical thinking skills in conjunction with a rigorous schedule.
+## Lucas Carmichael
 
-Skills:
+I build the systems that let a non-expert operate safely inside a technical one.
 
-- Data analytics using R, Python, and SQL.
-- Data manipulation and cleaning of datasets for analysis.
-- Data interpretation and applciation to real-world issues.
-- Optimization
+That has looked like governance guardrails and output-provenance checks for a production LLM workflow, a no-code editing loop that let a non-technical founder run her own site without a developer, and an assessment-reporting system so a training facility's output stopped depending on which coach wrote it. Different domains, same problem — the technology is rarely the constraint, the operating model around it is.
 
-Projects:
+**Now:** MBA candidate at William & Mary (December 2026) · AI Engineering Intern at ICF · independent AI operations consulting
 
-I've had the privilege of working with team 9 this semester to analyze cervical cancer risks in developing countries. This project has sparked and continued my passion for AI in healthcare. This project combined all of my experiences from data-wrangling to presenting in front of Executive Partners at the conclusion of the course. Throughout the course, I was constantly reminded at the complexity of data and power in translating data into tangible real-world solutions that can help save lives. 
+**Before:** B.A. Public Policy, William & Mary · Division I outfielder, 2021–2025
 
-Contact Information:
+### What I work on
 
-- Lacarmichael@wm.edu
-- (804)-638-7575
+- **AI operations and enablement** — turning stated bottlenecks into a phased, costed solution architecture, then handing over something the client can run without me
+- **LLM governance** — prompt-risk guardrails, output provenance, source citation, human review gates
+- **Applied analytics** — Python, R, SQL; quantitative models built to survive independent review
+- **Executive communication** — design specs, operating-model blueprints, build-vs-buy assessments, briefs written for someone who has to make a decision
 
+### How I approach it
 
+Recommend what they already pay for before recommending spend. Build the deliverable so it teaches itself. Offer two paths — one that works this week with what they own, one that's a real purchase — and let the client pick their own risk level. Label placeholder data as placeholder.
 
+### Contact
 
+lacarmichael@wm.edu
